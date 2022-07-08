@@ -49,44 +49,83 @@ Another way to verify or investigate the correctness of the age of customers.
 We have the date of birth of each customer and it's assumed that all those born in the same year nearly have the same age, and from this principle, we'll extract the year in which all the customers were born and check whether the same customers were born in the same year same age or not.
 
 Age
+
 birth_year	Age	
+
 1961	59	2
-            63	1
+
+        63	1
+
 1962	58	6
+
 1963	57	4
+
 1965	55	2
+
 1966	54	2
+
 1967	53	3
+
 1968	52	3
-            56	1
+
+        56	1
+
 1969	51	2
+
 1970	50	3
+
 1971	49	2
+
 1972	48	5
+
 1973	47	3
+
 1974	46	8
-            50	1
+
+        50	1
+
 1975	45	3
-            49	2
+
+        49	2
+
 1976	44	1
+
 1977	43	1
+
 1978	42	3
+
 1979	41	1
+
 1980	40	2
+
 1981	39	2
+
 1982	38	2
+
 1983	37	2
+
 1984	36	4
+
 1985	35	1
+
 1986	34	1
+
 1987	33	2
+
 1988	32	1
-            36	1
+
+        36	1
+
 1989	31	6
+
 1990	30	3
-            34	2
+
+        34	2
+
 1991	29	3
+
 1992	28	6
+
 1993	27	3
 
 As we can observe we have some samples born in the same year but with a big variation in age, and this is so weird!
