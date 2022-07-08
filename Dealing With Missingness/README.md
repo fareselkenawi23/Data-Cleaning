@@ -1,10 +1,9 @@
 # Dealing with missingness.
 
 ## ***Inspiration.***
-The goal of this notebook is to practice data cleaning problems especially dealing with missingness exist in this dataset(Pima Indians Diabetes dataset):
-    Getting the reason for being missed.
-    Understanding the pattern of missingness.
-    Chosse the best imputation technique.
+The goal of this is to practice data cleaning problems, especially dealing with missingness that exists in this dataset(Pima Indians Diabetes dataset): Getting the reason for being missed. Understanding the pattern of missingness. Chosse the best imputation technique.
+
+
 
 ## ***Context.***
 This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
