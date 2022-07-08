@@ -2,7 +2,7 @@
 
 
 
-you will be working with a retail banking dataset stored in the banking DataFrame.
+Working with a retail banking dataset stored in the banking DataFrame.
 The dataset contains data on the amount of money stored in accounts, their currency, the amount invested, account opening date, and last transaction date 
 that were consolidated from American and European branches.
 # ***Data cleaning.***
