@@ -85,12 +85,11 @@ We can attempt ***remapping incorrect categories to correct ones***.
 ![image](https://user-images.githubusercontent.com/108924970/177950200-8dc92722-0835-4c2a-9739-b672e6819e43.png)
 
    ### the presence of too many categories that could be collapsed into a few ***(Value consistency)***.
-   -having values that slightly differ because of ***capitalization***. Not treating this could lead to misleading results. 
+   - having values that slightly differ because of ***capitalization***. Not treating this could lead to misleading results. 
    To deal with this, we can ***either capitalize or lowercase***.
-   -leading or trailing white spaces***. 
+   - leading or ***trailing white spaces***. 
     To deal with it, we can ***remove spaces***.
     
-    ![what type of error do we have in membership consatint](https://user-images.githubusercontent.com/84151016/155373250-7eb3709d-9261-45a8-83b8-dafdc4a0c0f0.jpeg)
 
    ### Collapsing data into categories.
 Sometimes, we may want to create categories out of our data, such as creating household income groups from the income data column in the demographics DataFrames.
